@@ -58,7 +58,6 @@ if user == "scissors" and computer_choice == scissors:
 
 if user == "rock" and computer_choice == paper:
     print("You lose")
-
 if user == "rock" and computer_choice == rock:
     print("Draw")
 if user == "rock" and computer_choice == scissors:
